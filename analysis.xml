@@ -1,0 +1,15 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ANALYSIS_SET>
+   <ANALYSIS alias="ben_analysis_1" center_name="Maastricht University Medical Center">
+      <TITLE>ben_analysis_title_1</TITLE>
+      <DESCRIPTION>ben_analysis_description_1</DESCRIPTION>
+      <STUDY_REF accession="PRJEB21595">
+      </STUDY_REF>
+      <ANALYSIS_TYPE>
+         <SEQUENCE_FLATFILE/>
+      </ANALYSIS_TYPE>
+      <FILES>
+        <FILE checksum="adb19a802641e37f0a82b955beb0c5d0" checksum_method="MD5" filename="EMBL.HLA.Submission2.txt.gz" filetype="flatfile"/>
+      </FILES>
+   </ANALYSIS>
+</ANALYSIS_SET>

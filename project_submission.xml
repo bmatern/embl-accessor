@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<SUBMISSION alias="proj_sub_2017_06_30_13_52_52" center_name="Maastricht University Medical Center">
+	<ACTIONS>
+		<ACTION>
+			<ADD schema="project" source="project.xml"/>
+		</ACTION>
+	</ACTIONS>
+</SUBMISSION>

@@ -1,0 +1,50 @@
+ID   XXX; XXX; linear; genomic DNA; XXX; XXX; 21 BP.
+XX
+AC   
+XX
+DE   Human Leukocyte Antigen
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..21
+FT                   /organism="Homo sapiens"
+FT                   /db_xref="taxon:9606"
+FT                   /mol_type="genomic DNA"
+FT                   /chromosome="6"
+FT                   /isolate="0"
+FT   mRNA            join(1..3,4..9,13..18,19..21)
+FT                   /gene="HLA-C"
+FT                   /allele="Allele:01:02"
+FT                   /product="MHC class I antigen"
+FT   CDS             join(4..9,13..18)
+FT                   /transl_table=1
+FT                   /codon_start=1
+FT                   /gene="HLA-C"
+FT                   /allele="Allele:01:02"
+FT                   /product="MHC class I antigen"
+FT                   /translation="RRG"
+FT   5'UTR           1..3
+FT                   /note="5'UTR"
+FT                   /gene="HLA-C"
+FT                   /allele="Allele:01:02"
+FT   exon            4..9
+FT                   /number=1
+FT                   /gene="HLA-C"
+FT                   /allele="Allele:01:02"
+FT   intron          10..12
+FT                   /number=1
+FT                   /gene="HLA-C"
+FT                   /allele="Allele:01:02"
+FT   exon            13..18
+FT                   /number=2
+FT                   /gene="HLA-C"
+FT                   /allele="Allele:01:02"
+FT   3'UTR           19..21
+FT                   /note="3'UTR"
+FT                   /gene="HLA-C"
+FT                   /allele="Allele:01:02"
+XX
+SQ   Sequence 21 BP; 5 A; 5 C; 7 G; 4 T; 0 other;
+     AAGCGTCGTC CGGGCTGAAA T                                           21
+//
+

@@ -1,0 +1,2 @@
+accession	sample_accession	description	study_accession
+LT618799		Homo sapiens HLA-C gene for MHC class I antigen, allele HLA-C*07:01:01:01new	
